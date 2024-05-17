@@ -17,7 +17,7 @@ git commit -m "Add jacoco"
 git push origin main
 ```
 ```shell
-gitrm --cached <file name>
+git rm --cached <file name>
 ```
 ```shell
 git stash push --include-untracted
