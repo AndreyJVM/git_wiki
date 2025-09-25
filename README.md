@@ -1,6 +1,8 @@
 # Git command 
 ```shell
 git config --global user.name "Andrey Vorobev"
+```
+```shell
 git config --global user.email "Andrey.Vorobev.AQA@gmail.com"
 ```
 
