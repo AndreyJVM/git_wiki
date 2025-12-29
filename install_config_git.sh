@@ -9,7 +9,7 @@ fi
 echo "[Starting Git setup]"
 
 if command -v git &> /dev/null; then
-    echo "Git is already installed"
+    echo "[Git is already installed]"
 else
     apt update -qq
     apt install -y git
