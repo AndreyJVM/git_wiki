@@ -1,6 +1,8 @@
 ## Git command
 ```shell
-curl -sSL https://raw.githubusercontent.com/AndreyJVM/git_wiki/main/install_config_git.sh -o /tmp/install_config_git.sh && sudo bash /tmp/install_config_git.sh
+curl -sSL https://raw.githubusercontent.com/AndreyJVM/git_wiki/main/install_config_git.sh \
+    -o /tmp/install_config_git.sh \
+    && sudo bash /tmp/install_config_git.sh
 ```
 
 ```shell
