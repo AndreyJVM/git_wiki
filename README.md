@@ -1,4 +1,8 @@
-# Git command 
+## Git command
+```shell
+curl -sSL https://raw.githubusercontent.com/AndreyJVM/git_wiki/main/install_config_git.sh | sudo bash
+```
+
 ```shell
 git config --global user.name "Andrey Vorobev"
 ```
